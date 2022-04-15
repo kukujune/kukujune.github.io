@@ -3,6 +3,8 @@
 ## Project setup
 ```
 npm install
+vue router install
+vuex install
 ```
 
 ### Compiles and hot-reloads for development
