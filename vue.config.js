@@ -4,5 +4,15 @@ module.exports = defineConfig({
 
   // github blog ¼³Á¤
   outputDir: './docs',
-  publicPath: '/kukujune.github.io/'
+  publicPath: '/kukujune.github.io/',
+
+  // alias
+  // configureWebpack: {
+  //   resolve: {
+  //     alias: {
+  //       "@": path.join(__dirname, "/src"),
+  //     },
+  //   },
+  // },
+
 })
